@@ -1,0 +1,15 @@
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\bin\Debug\net6.0\assingmentbasic.exe
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\bin\Debug\net6.0\assingmentbasic.deps.json
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\bin\Debug\net6.0\assingmentbasic.runtimeconfig.json
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\bin\Debug\net6.0\assingmentbasic.dll
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\bin\Debug\net6.0\assingmentbasic.pdb
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\assingmentbasic.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\assingmentbasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\assingmentbasic.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\assingmentbasic.AssemblyInfo.cs
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\assingmentbasic.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\assingmentbasic.dll
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\refint\assingmentbasic.dll
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\assingmentbasic.pdb
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\assingmentbasic.genruntimeconfig.cache
+C:\Users\ANI\source\repos\assingmentbasic\assingmentbasic\obj\Debug\net6.0\ref\assingmentbasic.dll

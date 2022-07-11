@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ANI\\source\\repos\\assingmentbasic\\assingmentbasic\\assingmentbasic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ANI\\source\\repos\\assingmentbasic\\assingmentbasic\\assingmentbasic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ANI\\source\\repos\\assingmentbasic\\assingmentbasic\\assingmentbasic.csproj",
+        "projectName": "assingmentbasic",
+        "projectPath": "C:\\Users\\ANI\\source\\repos\\assingmentbasic\\assingmentbasic\\assingmentbasic.csproj",
+        "packagesPath": "C:\\Users\\ANI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ANI\\source\\repos\\assingmentbasic\\assingmentbasic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ANI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
